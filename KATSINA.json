@@ -1,0 +1,2233 @@
+[{"LGAS":[{
+  "LGA NAME": "BAKORI",
+      "LGA CODE": "1",
+  "WARDS":[{
+      
+    "WARD NAME": "BAKORI �A�",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "BAKORI �A�",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "KURAMI/YAMKWANI",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "DAWAN MUSA",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "TSIGA",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "KABOMO",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "BARDE/KWANTAKWAR AN",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "JARGABA",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "KAKUMI",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "GUGA",
+    "WARD CODE": "10"
+  },
+  {
+   
+    
+    "WARD NAME": "KANDARAWA",
+    "WARD CODE": "11"
+  }]},
+  {
+    "LGA NAME": "BATAGARAWA",
+    "LGA CODE": "2",
+  "WARDS":[
+    {
+      
+      "WARD NAME": "BATAGARAWA �A�",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "BATAGARAWA �B�",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "DANDAGORO",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "AJIWA",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "TSANNI",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "JINO",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "BARAWA",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "BAKIYAWA",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "KAYAUKI",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "YARGAMJI",
+      "WARD CODE": "10"
+    }]},
+  {
+    "LGA NAME": "BATSARI",
+    "LGA CODE": "3",
+  "WARDS":[{
+      
+    "WARD NAME": "BATSIARI",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "MANAWA",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "WAGINI",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "ABADAU/KAGARA",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "YAUYAU/MALLAMAWA",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "KANDAWA",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "DAN.ALH/YANGAIYA",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "RUMA",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "DARINI/MAGAJIABU",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "KARARE",
+    "WARD CODE": "10"
+  },
+  {
+   
+    
+    "WARD NAME": "MADOGARA",
+    "WARD CODE": "11"
+  }]},
+  {
+
+    "LGA NAME": "BAURE",
+    "LGA CODE": "4",
+  "WARDS":[ {
+    "WARD NAME": "YANMAULU",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "BABBAN MUTUM",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "TARAMNAWA/BARE",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "MUDURI",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "BAURE",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "UNGUWAR RAI",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "KAGARA/FASKI",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "GARKI",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "YANDUNA",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "MAI BARA",
+    "WARD CODE": "10"
+  },
+  {
+   
+    
+    "WARD NAME": "HUI",
+    "WARD CODE": "11"
+  },
+  {
+   
+    
+    "WARD NAME": "AGALA",
+    "WARD CODE": "12"
+  }]},
+  {
+    "LGA NAME": "BINDAWA",
+    "LGA CODE": "5",
+  "WARDS":[ {
+     
+    "WARD NAME": "KAMRI",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "BINDAWA",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "TAMA/DAYE",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "FARU/DALLAJI",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "SHIBDAWA",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "JIBAWA/R.BADE",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "DORO",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "BAURE",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "YANGORA",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "GIREMAWA",
+    "WARD CODE": "10"
+  },
+  {
+   
+    
+    "WARD NAME": "GAIWA",
+    "WARD CODE": "11"
+  }]},
+  {
+ 
+    "LGA NAME": "CHARANCHI",
+    "LGA CODE": "6",
+  "WARDS":[{
+    "WARD NAME": "CHARANCHI",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "SAFANA",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "RADDA",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "MAJEN WAYYA",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "GANUWA",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "TSAKATSA",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "KODA",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "KAURAYE",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "BANYE",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "DOKA",
+    "WARD CODE": "10"
+  }]},
+      {
+        "LGA NAME": "DANDUME",
+        "LGA CODE": "7",
+  "WARDS":[{
+      
+    "WARD NAME": "MAHUTA �A",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "MAHUTA �B�",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "MAHUTA �C�",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "DANDUME �A�",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "DANDUME �B�",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "TUMBURKAI �A�",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "TUMBURKAI �B�",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "DANTAKARI",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "NASARAWA",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "MAGAJI WANDO �A�",
+    "WARD CODE": "10"
+  },
+  {
+   
+    
+    "WARD NAME": "MAGAJI WANDO �B�",
+    "WARD CODE": "11"
+  }]},
+  {
+    "LGA NAME": "DANJA",
+    "LGA CODE": "8",
+  "WARDS":[ {
+      
+    "WARD NAME": "JIBIA",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "TANDAMA",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "DANJA �A�",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "DANJI �B�",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "TSANGAMAWA",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "DABAI",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "YAKAJI �A�",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "YAKAJI �B�",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "KAHUTU �A�",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "KAHUTU �B�",
+    "WARD CODE": "10"
+  }]},
+  {
+    "LGA NAME": "DAN MUSA",
+    "LGA CODE": "9",
+  "WARDS":[ {
+      
+    "WARD NAME": "MARA",
+    "WARD CODE": "1"
+  },
+  {
+   
+    
+    "WARD NAME": "DAN ALKIMA",
+    "WARD CODE": "2"
+  },
+  {
+   
+    
+    "WARD NAME": "DAN MUSA �A�",
+    "WARD CODE": "3"
+  },
+  {
+   
+    
+    "WARD NAME": "DAN MUSA �B�",
+    "WARD CODE": "4"
+  },
+  {
+   
+    
+    "WARD NAME": "DAN ALI",
+    "WARD CODE": "5"
+  },
+  {
+   
+    
+    "WARD NAME": "MAI DABINO �A�",
+    "WARD CODE": "6"
+  },
+  {
+   
+    
+    "WARD NAME": "MAI DABINO �B�",
+    "WARD CODE": "7"
+  },
+  {
+   
+    
+    "WARD NAME": "DANDIRE �A�",
+    "WARD CODE": "8"
+  },
+  {
+   
+    
+    "WARD NAME": "DANDIRE �B�",
+    "WARD CODE": "9"
+  },
+  {
+   
+    
+    "WARD NAME": "YAN-TUMAKI �A�",
+    "WARD CODE": "10"
+  },
+  {
+   
+    
+    "WARD NAME": "YAN-TUMAKI �B�",
+    "WARD CODE": "11"
+  }]},
+  {
+    "LGA NAME": "DAURA",
+    "LGA CODE": "10",
+    "WARDS":[ {
+      
+      "WARD NAME": "SARKIN YARA �A�",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "SARKIN YARA �B�",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "UBANDAWAKI �A�",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "UBANDAWAKI �B�",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "KUSUGU",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "MAZOJI �A�",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "MAZOJI �B�",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "TUDUN WAD",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "SABON GARI",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "MADOBI �A�",
+      "WARD CODE": "10"
+    },
+    {
+     
+      
+      "WARD NAME": "MADOBI �B�",
+      "WARD CODE": "11"
+    }]},
+    {
+      "LGA NAME": "DUTSI",
+      "LGA CODE": "11",
+    "WARDS":[{
+     
+      "WARD NAME": "DAN�AUNAI",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "RUWAN KAYA �A�",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "RUWAN KAYA �B�",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "DUTSI �A�",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "DUTSI �B�",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "YAMEL �A�",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "YAMEL �B�",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "SIRIKA �A�",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "SIRIKA �B�",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "KAYAWA",
+      "WARD CODE": "10"
+    }]},
+    {
+      "LGA NAME": "DUTSIN-MA",
+      "LGA CODE": "12",
+    "WARDS":[ {
+      
+      "WARD NAME": "DUTSIN-MA �A�",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "DUTSIN-MA �B�",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "SHEMA",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "KAROFI �A�",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "KAROFI �B�",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "KUKI �A�",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "KUKI �B�",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "KUTAWA",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "BAGAGADI",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "MAKERA",
+      "WARD CODE": "10"
+    },
+    {
+     
+      
+      "WARD NAME": "DABAWA",
+      "WARD CODE": "11"
+    }]},
+    {
+    
+      "LGA NAME": "FASKARI",
+      "LGA CODE": "13",
+    "WARDS":[ {
+      "WARD NAME": "YANKARA",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "SHEMA",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "MAIRUWA",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "DAUDAWA",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "TAFOKI",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "RUWAN GODIYA",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "YARMALAMAI",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "FASKARI",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "SABONLAYI/GALDIMA",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "MAIGORA",
+      "WARD CODE": "10"
+    },
+    {
+      "LGA NAME": "FUNTUA",
+      "LGA CODE": "14",
+      "WARD NAME": "UNG.DANDUTSE",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "SABON GARI",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "UNGUWAR RAB�U",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "UNGUWAR IBRAHIM",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "UNGUWAR MUSA",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "DUKKE",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "MAKERA",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "GOYA",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "MAIGAMJI",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "MASKA",
+      "WARD CODE": "10"
+    },
+    {
+     
+      
+      "WARD NAME": "TUDUNIYA",
+      "WARD CODE": "11"
+    }]},
+    {
+      "LGA NAME": "INGAWA",
+      "LGA CODE": "15",
+    "WARDS":[{
+     
+      "WARD NAME": "DUGUL",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "YANDOMA",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "INGAWA",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "AGAYAWA",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "JOBE/KANDAWA",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "KURFEJI/YANKAURA",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "MANOMAWA/KAFI",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "BIDORE/YAYA",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "BARERUWA/RURUMA",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "DAUNAKA/BKWARI",
+      "WARD CODE": "10"
+    },
+    {
+     
+      
+      "WARD NAME": "DARA",
+      "WARD CODE": "11"
+    }]},
+        {
+          "LGA NAME": "JIBIA",
+          "LGA CODE": "16",
+    "WARDS":[{
+      
+      "WARD NAME": "FARFARU",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "YANGAIYA",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "JIBIA �A�",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "JIBIA �B�",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "MAZANYA/MAGAMA",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "G/BAURE/MALLAMAWA",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "FARU",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "BUGAJE",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "GANGARA",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "RIKO",
+      "WARD CODE": "10"
+    },
+    {
+     
+      
+      "WARD NAME": "KUSA",
+      "WARD CODE": "11"
+    }]},
+    {
+      "LGA NAME": "KAFUR",
+      "LGA CODE": "17",
+    "WARDS":[{
+      
+      "WARD NAME": "YARTALATA/RIGOJI",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "DUTSIN KURA/KANYA",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "KAFUR",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "MASARI",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "YARI BORI",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "SABUWAR KASA",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "GOZAKI",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "DANTUTURE",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "MAHUTA",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "GAMZAGO",
+      "WARD CODE": "10"
+    }]},
+    {
+      "LGA NAME": "KAITA",
+      "LGA CODE": "18",
+    "WARDS":[{
+      
+      "WARD NAME": "YANDAKI",
+      "WARD CODE": "1"
+    },
+    {
+     
+      
+      "WARD NAME": "DANKABA",
+      "WARD CODE": "2"
+    },
+    {
+     
+      
+      "WARD NAME": "ABDALLAWA",
+      "WARD CODE": "3"
+    },
+    {
+     
+      
+      "WARD NAME": "BA�AWA",
+      "WARD CODE": "4"
+    },
+    {
+     
+      
+      "WARD NAME": "GAFIYA",
+      "WARD CODE": "5"
+    },
+    {
+     
+      
+      "WARD NAME": "GIRKA",
+      "WARD CODE": "6"
+    },
+    {
+     
+      
+      "WARD NAME": "KAITA",
+      "WARD CODE": "7"
+    },
+    {
+     
+      
+      "WARD NAME": "YANHOHO",
+      "WARD CODE": "8"
+    },
+    {
+     
+      
+      "WARD NAME": "DANKAMA",
+      "WARD CODE": "9"
+    },
+    {
+     
+      
+      "WARD NAME": "MATSAI",
+      "WARD CODE": "10"
+    }]},
+    {
+      "LGA NAME": "KANKARA",
+      "LGA CODE": "19",
+      "WARDS":[{
+     
+        "WARD NAME": "GATAKAWA S./GARMABAI",
+        "WARD CODE": "1"
+      },
+      {
+       
+        
+        "WARD NAME": "ZANGO/ZABARO",
+        "WARD CODE": "2"
+      },
+      {
+       
+        
+        "WARD NAME": "PAUWA A&B",
+        "WARD CODE": "3"
+      },
+      {
+       
+        
+        "WARD NAME": "KUKASHEKA",
+        "WARD CODE": "4"
+      },
+      {
+       
+        
+        "WARD NAME": "HURYA",
+        "WARD CODE": "5"
+      },
+      {
+       
+        
+        "WARD NAME": "KANKARA A&B",
+        "WARD CODE": "6"
+      },
+      {
+       
+        
+        "WARD NAME": "GARAGI",
+        "WARD CODE": "7"
+      },
+      {
+       
+        
+        "WARD NAME": "BURDUGAU",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "WAWAR KAZA",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "DAN�MURABU",
+        "WARD CODE": "10"
+      },
+      {
+       
+        
+        "WARD NAME": "DAN�MADAKI",
+        "WARD CODE": "11"
+      }]},
+      {
+     
+        "LGA NAME": "KANKA",
+        "LGA CODE": "20",
+      "WARDS":[ {
+        "WARD NAME": "GALADIMA �A�",
+        "WARD CODE": "1"
+      },
+      {
+       
+        
+        "WARD NAME": "GALADIMA �B�",
+        "WARD CODE": "2"
+      },
+      {
+       
+        
+        "WARD NAME": "KAFINSOLI",
+        "WARD CODE": "3"
+      },
+      {
+       
+        
+        "WARD NAME": "TAFASHIYA/NASARAW A",
+        "WARD CODE": "4"
+      },
+      {
+       
+        
+        "WARD NAME": "KUNDURU/GYAZA",
+        "WARD CODE": "5"
+      },
+      {
+       
+        
+        "WARD NAME": "KAFIN DANGI/FAKUWA",
+        "WARD CODE": "6"
+      },
+      {
+       
+        
+        "WARD NAME": "SUKUNTUNI",
+        "WARD CODE": "7"
+      },
+      {
+       
+        
+        "WARD NAME": "RIMAYE",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "GACHI",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "MAGAM/TSA",
+        "WARD CODE": "10"
+      }]},
+      {
+        "LGA NAME": "KATSINA",
+        "LGA CODE": "21",
+      "WARDS":[{
+      
+        "WARD NAME": "WAKILIN GABAS II",
+        "WARD CODE": "1"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN GABAS II",
+        "WARD CODE": "2"
+      },
+      {
+       
+        
+        "WARD NAME": "KANGIWA",
+        "WARD CODE": "3"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN YAMMA I",
+        "WARD CODE": "4"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN YAMMA II",
+        "WARD CODE": "5"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN KUDU I",
+        "WARD CODE": "6"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN KUDU II",
+        "WARD CODE": "7"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN AREWA �A�",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN AREWA �B�",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "SHINKAFI �A�",
+        "WARD CODE": "10"
+      },
+      {
+       
+        
+        "WARD NAME": "SHINKAFI �B�",
+        "WARD CODE": "11"
+      },
+      {
+       
+        
+        "WARD NAME": "WAKILIN KUDU III",
+        "WARD CODE": "12"
+      }]},
+      {
+        "LGA NAME": "KURFI",
+        "LGA CODE": "22",
+      "WARDS":[ {
+     
+        "WARD NAME": "TSAURI �A�",
+        "WARD CODE": "1"
+      },
+      {
+       
+        
+        "WARD NAME": "TSUARI �B�",
+        "WARD CODE": "2"
+      },
+      {
+       
+        
+        "WARD NAME": "KURFI �A�",
+        "WARD CODE": "3"
+      },
+      {
+       
+        
+        "WARD NAME": "KURFI �B�",
+        "WARD CODE": "4"
+      },
+      {
+       
+        
+        "WARD NAME": "RAWAYUA �A�",
+        "WARD CODE": "5"
+      },
+      {
+       
+        
+        "WARD NAME": "RAWAYUA �B�",
+        "WARD CODE": "6"
+      },
+      {
+       
+        
+        "WARD NAME": "BIRCHI",
+        "WARD CODE": "7"
+      },
+      {
+       
+        
+        "WARD NAME": "BARKIYA",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "WURMA �A�",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "WURMA �B�",
+        "WARD CODE": "10"
+      }]},
+          {
+            "LGA NAME": "KUSADA",
+            "LGA CODE": "23",
+      "WARDS":[    {
+     
+        "WARD NAME": "KUDADA",
+        "WARD CODE": "1"
+      },
+      {
+       
+        
+        "WARD NAME": "DUDUNNI",
+        "WARD CODE": "2"
+      },
+      {
+       
+        
+        "WARD NAME": "KAIKAI",
+        "WARD CODE": "3"
+      },
+      {
+       
+        
+        "WARD NAME": "MAWASHI",
+        "WARD CODE": "4"
+      },
+      {
+       
+        
+        "WARD NAME": "BOKO",
+        "WARD CODE": "5"
+      },
+      {
+       
+        
+        "WARD NAME": "KOFA",
+        "WARD CODE": "6"
+      },
+      {
+       
+        
+        "WARD NAME": "BAURANYA �A�",
+        "WARD CODE": "7"
+      },
+      {
+       
+        
+        "WARD NAME": "BAURANYA �B�",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "YASHE �A�",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "YASHE �B�",
+        "WARD CODE": "10"
+      }]},
+      {
+        "LGA NAME": "MAI�ADUA",
+        "LGA CODE": "24",
+      "WARDS":[{
+     
+        "WARD NAME": "BUMBUM �A�",
+        "WARD CODE": "1"
+      },
+      {
+       
+        
+        "WARD NAME": "BUMBUM �B�",
+        "WARD CODE": "2"
+      },
+      {
+       
+        
+        "WARD NAME": "DANYASHE",
+        "WARD CODE": "3"
+      },
+      {
+       
+        
+        "WARD NAME": "MAIADIEA �A�",
+        "WARD CODE": "4"
+      },
+      {
+       
+        
+        "WARD NAME": "MAIADUA �B�",
+        "WARD CODE": "5"
+      },
+      {
+       
+        
+        "WARD NAME": "MAIADUA �C�",
+        "WARD CODE": "6"
+      },
+      {
+       
+        
+        "WARD NAME": "MAI KONI �A�",
+        "WARD CODE": "7"
+      },
+      {
+       
+        
+        "WARD NAME": "MAI KONI �B�",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "NATSALLE",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "KOZA",
+        "WARD CODE": "10"
+      }]},
+      {
+        "LGA NAME": "MALUMFASHI",
+        "LGA CODE": "25",
+      "WARDS":[ {
+     
+        "WARD NAME": "MALUMFASHI �A�",
+        "WARD CODE": "1"
+      },
+      {
+       
+        
+        "WARD NAME": "MALUMFASHI �B�",
+        "WARD CODE": "2"
+      },
+      {
+       
+        
+        "WARD NAME": "YABA",
+        "WARD CODE": "3"
+      },
+      {
+       
+        
+        "WARD NAME": "RUWAN SANYI",
+        "WARD CODE": "4"
+      },
+      {
+       
+        
+        "WARD NAME": "KARFI",
+        "WARD CODE": "5"
+      },
+      {
+       
+        
+        "WARD NAME": "BORIN DAWA",
+        "WARD CODE": "6"
+      },
+      {
+       
+        
+        "WARD NAME": "YARMAMA",
+        "WARD CODE": "7"
+      },
+      {
+       
+        
+        "WARD NAME": "GORARDANSAKA",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "DANSARAI",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "MAKAURACHI",
+        "WARD CODE": "10"
+      },
+      {
+       
+        
+        "WARD NAME": "DAYI",
+        "WARD CODE": "11"
+      },
+      {
+       
+        
+        "WARD NAME": "NA-ALMA",
+        "WARD CODE": "12"
+      }]},
+      {
+        "LGA NAME": "MANI",
+        "LGA CODE": "26",
+        "WARDS":[{
+      
+          "WARD NAME": "BUJAWA/GEWAYAU",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "DAWAN/MAKAU",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "MANI",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "BAGIWA",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "TSAGM/TAKUSHEYI",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "HAMCHETA",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "KWATTA",
+          "WARD CODE": "7"
+        },
+        {
+         
+          
+          "WARD NAME": "MACHIKA",
+          "WARD CODE": "8"
+        },
+        {
+         
+          
+          "WARD NAME": "MUDURU",
+          "WARD CODE": "9"
+        },
+        {
+         
+          
+          "WARD NAME": "MAGAMI",
+          "WARD CODE": "10"
+        },
+        {
+         
+          
+          "WARD NAME": "JANI",
+          "WARD CODE": "11"
+        }]},
+        {
+          "LGA NAME": "MASHI",
+          "LGA CODE": "27",
+        "WARDS":[{
+     
+          "WARD NAME": "MASHI",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "JIGAWA",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "S/RIJIYA",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "BAMLE",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "GALLU",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "SONKAYA",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "DOGURU �A�",
+          "WARD CODE": "7"
+        },
+        {
+         
+          
+          "WARD NAME": "DOGURU �B�",
+          "WARD CODE": "8"
+        },
+        {
+         
+          
+          "WARD NAME": "KARAI",
+          "WARD CODE": "9"
+        },
+        {
+         
+          
+          "WARD NAME": "TAMILO �A�",
+          "WARD CODE": "10"
+        },
+        {
+         
+          
+          "WARD NAME": "TAMILO �B�",
+          "WARD CODE": "11"
+        }]},
+        {
+          "LGA NAME": "MATAZU",
+          "LGA CODE": "28",
+        "WARDS":[ {
+      
+          "WARD NAME": "MATAZU �A�",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "MATAZU �B�",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "MAZOJI �A�",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "MAZOJI �B�",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "SAYAYA",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "KOGARI",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "GWARJO",
+          "WARD CODE": "7"
+        },
+        {
+         
+          
+          "WARD NAME": "KARADUWA",
+          "WARD CODE": "8"
+        },
+        {
+         
+          
+          "WARD NAME": "DISSI",
+          "WARD CODE": "9"
+        },
+        {
+         
+          
+          "WARD NAME": "RINJIN IDI",
+          "WARD CODE": "10"
+        }]},
+        {
+          "LGA NAME": "MUSAWA",
+          "LGA CODE": "29",
+        "WARDS":[ {
+     
+          "WARD NAME": "MUSAWA",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "JIKAMSHI",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "DANJANKU KARACHI",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "KIRA",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "YARADAU/TABANNI",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "TUGE",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "GINGIN",
+          "WARD CODE": "7"
+        },
+        {
+         
+          
+          "WARD NAME": "KURKUJAN �A�",
+          "WARD CODE": "8"
+        },
+        {
+         
+          
+          "WARD NAME": "KURKUJAN �B�",
+          "WARD CODE": "9"
+        },
+        {
+         
+          
+          "WARD NAME": "DANGANI",
+          "WARD CODE": "10"
+        },
+        {
+         
+          
+          "WARD NAME": "GARU",
+          "WARD CODE": "11"
+        }]},
+        {
+          "LGA NAME": "RIMI",
+          "LGA CODE": "30",
+        "WARDS":[ {
+      
+          "WARD NAME": "RIMI",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "ABUKUR",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "MAJEN GOVIR",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "REMAWA/IYATAWA",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "KADANDANI",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "SABON GARI/ALARAIN",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "TSAGERO",
+          "WARD CODE": "7"
+        },
+        {
+       
+        
+        "WARD NAME": "FARDAMI",
+        "WARD CODE": "8"
+      },
+      {
+       
+        
+        "WARD NAME": "MAKURDA",
+        "WARD CODE": "9"
+      },
+      {
+       
+        
+        "WARD NAME": "MASABO/KURABAU",
+        "WARD CODE": "10"
+      }]},
+            {
+              "LGA NAME": "SABUWA",
+              "LGA CODE": "31",
+        "WARDS":[  {
+      
+          "WARD NAME": "SABUWA �A�",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "SABUWA �B�",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "GAZARI",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "MAI BAKKO",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "DAMARI",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "MACHIKA",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "DUGUN MA�AZU",
+          "WARD CODE": "7"
+        },
+        {
+         
+          
+          "WARD NAME": "GAMJI",
+          "WARD CODE": "8"
+        },
+        {
+         
+          
+          "WARD NAME": "RAFIN-IWA",
+          "WARD CODE": "9"
+        },
+        {
+         
+          
+          "WARD NAME": "SAYAU",
+          "WARD CODE": "10"
+        }]},
+        {
+          "LGA NAME": "SAFANA",
+          "LGA CODE": "32",
+        "WARDS":[{
+      
+          "WARD NAME": "SAFANA",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "TSAKIYA",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "RUNKA �A�",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "RUNKA �B�",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "BABBAN DUHU �A�",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "BABBAN DUHU �B�",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "ZAKKA �A�",
+          "WARD CODE": "7"
+        },
+        {
+         
+          
+          "WARD NAME": "ZAKKA �B�",
+          "WARD CODE": "8"
+        },
+        {
+         
+          
+          "WARD NAME": "BAURE �A�",
+          "WARD CODE": "9"
+        },
+        {
+         
+          
+          "WARD NAME": "BAURE �B�",
+          "WARD CODE": "10"
+        }]},
+        {
+          "LGA NAME": "SANDAMU",
+          "LGA CODE": "33",
+        "WARDS":[{
+     
+          "WARD NAME": "SANDAMU",
+          "WARD CODE": "1"
+        },
+        {
+         
+          
+          "WARD NAME": "KARKARKU",
+          "WARD CODE": "2"
+        },
+        {
+         
+          
+          "WARD NAME": "KWASARAWA",
+          "WARD CODE": "3"
+        },
+        {
+         
+          
+          "WARD NAME": "DANEJI �A�",
+          "WARD CODE": "4"
+        },
+        {
+         
+          
+          "WARD NAME": "DANEJI �B�",
+          "WARD CODE": "5"
+        },
+        {
+         
+          
+          "WARD NAME": "FAGO �A�",
+          "WARD CODE": "6"
+        },
+        {
+         
+          
+          "WARD NAME": "FAGO �B�",
+          "WARD CODE": "7"
+        },
+        {
+         
+          
+          "WARD NAME": "RADE �A�",
+          "WARD CODE": "8"
+        },
+        {
+         
+          
+          "WARD NAME": "RADE �B�",
+          "WARD CODE": "9"
+        },
+        {
+         
+          
+          "WARD NAME": "KATSAYAL",
+          "WARD CODE": "10"
+        },
+        {
+         
+          
+          "WARD NAME": "KAGARE",
+          "WARD CODE": "11"
+        }]},
+        {
+          
+      "LGA NAME": "ZANGO",
+      "LGA CODE": "34",
+          "WARDS":[{
+            "WARD NAME": "YARDAJE",
+            "WARD CODE": "1"
+          },
+          {
+           
+            
+            "WARD NAME": "KANDA",
+            "WARD CODE": "2"
+          },
+          {
+           
+            
+            "WARD NAME": "ZANGO",
+            "WARD CODE": "3"
+          },
+          {
+           
+            
+            "WARD NAME": "SARA",
+            "WARD CODE": "4"
+          },
+          {
+           
+            
+            "WARD NAME": "DARGAGE",
+            "WARD CODE": "5"
+          },
+          {
+           
+            
+            "WARD NAME": "RIGOGO/CIDARI",
+            "WARD CODE": "6"
+          },
+          {
+           
+            
+            "WARD NAME": "GARNI",
+            "WARD CODE": "7"
+          },
+          {
+           
+            
+            "WARD NAME": "GWAMBA",
+            "WARD CODE": "8"
+          },
+          {
+           
+            
+            "WARD NAME": "KAWARIN KUDI",
+            "WARD CODE": "9"
+          },
+          {
+           
+            
+            "WARD NAME": "KAWARIN MALAMAI",
+            "WARD CODE": "10"
+          }]}]}]
