@@ -1,0 +1,290 @@
+[
+  {
+    "LGAS": [
+      {
+        "LGA NAME": "ABAJI",
+        "LGA CODE": "1",
+        "WARDS": [
+          {
+            "wardname": "ABAJI CENTRAL",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ABAJI NORTH EAST",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ABAJI SOUTH EAST",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "AGYANA/PANDAGI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "RIMBA EBAGI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "NUKU",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ALU MAMAGI",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "YABA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "GURDI",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "GAWU",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "BWARI",
+        "LGA CODE": "2",
+        "WARDS": [
+          {
+            "wardname": "BWARI CENTRAL",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "KUDURU",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "IGU",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "SHERE",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KAWU",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "USHAFA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "DUTSE ALHAJI",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "BYAZIN",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KUBWA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "USUMA",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "GWAGWALADA",
+        "LGA CODE": "3",
+        "WARDS": [
+          {
+            "wardname": "GWAGWALADA CENTRAL",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "KUTUNKU",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "STAFF QUARTERS",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "IBWA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "DOBI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "PAIKO",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "TUNGAN MAJE",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ZUBA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "IKWA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "GWAKO",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "KUJE",
+        "LGA CODE": "4",
+        "WARDS": [
+          {
+            "wardname": "KUJE",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "CHIBIRI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GAUBE",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KWAKU",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KABI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "RUBOCHI",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "GWAGWADA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "GUDUN KARYA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KUJEKWA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "YENCHE",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "KWALI",
+        "LGA CODE": "5",
+        "WARDS": [
+          {
+            "wardname": "KWALI",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "YANGOJI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "PAI",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KILANKWA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "DAFA",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KUNDU",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ASHARA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "GUMBO",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "WAKO",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "YEBO",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "MUNICIPAL",
+        "LGA CODE": "6",
+        "WARDS": [
+          {
+            "wardname": "CITY CENTER",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "GARKI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "KABUSA",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "WUSE",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "GWARINPA",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "JIWA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "GUI",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "KARSHI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OROZO",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "KARU",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "NYANYA",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "GWAGWA",
+            "wardcode": "12"
+          }
+        ]
+      }
+    ]
+  }
+]

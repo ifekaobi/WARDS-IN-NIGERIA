@@ -1,0 +1,454 @@
+[
+  {
+    "LGAS": [
+      {
+        "LGA NAME": "BRASS",
+        "LGA CODE": "1",
+        "WARDS": [
+          {
+            "wardname": "BRASS ONE (TWON)",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BRASS TWO (TWON)",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "EWOAMA",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "EKPOAMA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ODIOMA/DIEMA",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "CAPE FORMOSA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "KONSHO",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OSINIBIRI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "MINIBIE",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "SANGANA",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "EKEREMOR",
+        "LGA CODE": "2",
+        "WARDS": [
+          {
+            "wardname": "TARAKIRI",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OYIAKIRI I",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OYIAKIRI II",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OYIAKIRI III",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "OYIAKIRI IV",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OPOROMOR I",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OPOROMOR II",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OPOROMOR III",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OPOROMOR IV",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OPOROMOR V",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "EDUWINI I",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "EDUWINI II",
+            "wardcode": "12"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "KOLOKUMA/OPOKUMA",
+        "LGA CODE": "3",
+        "WARDS": [
+          {
+            "wardname": "ODI (NORTH) I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ODI (CENTRAL) II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ODI (SOUTH) III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KAIAMA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KAIAMA/OLOBIRI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "SAMPOU/KALAMA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OPOKUMA NORTH",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OPOKUMA SOUTH",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "SEIBOKOROGHA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "(SABAGREIA) I",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "OKOLOBA (SABAGREIA) II",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "IGBEDI",
+            "wardcode": "12"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "NEMBE",
+        "LGA CODE": "4",
+        "WARDS": [
+          {
+            "wardname": "OGBOLOMABIRI I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OGBOLOMABIRI II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OGBOLOMABIRI III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "BASSAMBIRI I",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "BASSAMBIRI II",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "BASSAMBIRI III",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "BASSAMBIRI IV",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "IGBETA-EWOAMA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OKOROMA I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OKOROMA II",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "MINI",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "IKENSI",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "OLUASIRI",
+            "wardcode": "13"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "OGBIA",
+        "LGA CODE": "5",
+        "WARDS": [
+          {
+            "wardname": "OGBIA",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OTUOKPOTI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLOGI",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ANYAMA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "OKODI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OTUASEGA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "EMEYAL",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "IMIRINGI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KOLO",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OLOIBIRI",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "OPUME",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "OTAKEME",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "OTUABULA",
+            "wardcode": "13"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "SAGBAMA",
+        "LGA CODE": "6",
+        "WARDS": [
+          {
+            "wardname": "AGBERE",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ANGALABIRI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OFONI I",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OFONI II",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "EBEDEBIRI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OSSIAMA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ASAMABIRI",
+            "wardcode": "7"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "SOUTHERN IJAW",
+        "LGA CODE": "7",
+        "WARDS": [
+          {
+            "wardname": "OPOROMA I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OPOROMA II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLODIAMA I",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OLODIAMA II",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "OTUAN",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "WEST BOMA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "CENTRAL BOMA I",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "CENTRAL BOMA II",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "AMASSOMA I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "AMASSOMA II",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "AMASSOMA III",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "EAST BOMA I",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "EAST BOMA II",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "FOROPA",
+            "wardcode": "14"
+          },
+          {
+            "wardname": "APOI",
+            "wardcode": "15"
+          },
+          {
+            "wardname": "UKUBIE",
+            "wardcode": "16"
+          },
+          {
+            "wardname": "KOLUAMA",
+            "wardcode": "16"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "YENAGOA",
+        "LGA CODE": "8",
+        "WARDS": [
+          {
+            "wardname": "ATISSA I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ATISSA II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ATISSA III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "EPIE I",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "EPIE II",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "EPIE III",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "GBARAIN I",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "GBARAIN II",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "GBARAIN III",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "EKPETIAMA I",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "EKPETIAMA II",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "EKPETIAMA III",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "BISENI I",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "BISENI II",
+            "wardcode": "14"
+          },
+          {
+            "wardname": "OKORDIA",
+            "wardcode": "15"
+          },
+          {
+            "wardname": "ZARAMA",
+            "wardcode": "16"
+          }
+        ]
+      }
+    ]
+  }
+]
